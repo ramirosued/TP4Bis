@@ -1,9 +1,13 @@
 
 img{
   border: 3px solid black;
-
-
 }
 *{
   background-color:burlywood;
+}
+
+div 
+{
+float: left;
+padding-left: 10px;
 }
