@@ -1,83 +1,39 @@
 {
   "Files": [
     {
-      "Id": "Z:\\programacion 2023\\TP4Bis\\TP4Bis\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TP4Bis.bundle.scp.css",
+      "Id": "Z:\\programacion 2023\\TP4Bis\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TP4Bis.bundle.scp.css",
       "PackagePath": "staticwebassets\\TP4Bis.bundle.scp.css"
     },
     {
-      "Id": "Z:\\programacion 2023\\TP4Bis\\TP4Bis\\wwwroot\\.gitignore",
-      "PackagePath": "staticwebassets\\.gitignore"
-    },
-    {
-      "Id": "Z:\\programacion 2023\\TP4Bis\\TP4Bis\\wwwroot\\Program.cs",
-      "PackagePath": "staticwebassets\\Program.cs"
-    },
-    {
-      "Id": "Z:\\programacion 2023\\TP4Bis\\TP4Bis\\wwwroot\\appsettings.Development.json",
-      "PackagePath": "staticwebassets\\appsettings.Development.json"
-    },
-    {
-      "Id": "Z:\\programacion 2023\\TP4Bis\\TP4Bis\\wwwroot\\appsettings.json",
-      "PackagePath": "staticwebassets\\appsettings.json"
-    },
-    {
-      "Id": "Z:\\programacion 2023\\TP4Bis\\TP4Bis\\wwwroot\\argentina.png",
+      "Id": "Z:\\programacion 2023\\TP4Bis\\wwwroot\\argentina.png",
       "PackagePath": "staticwebassets\\argentina.png"
     },
     {
-      "Id": "Z:\\programacion 2023\\TP4Bis\\TP4Bis\\wwwroot\\brasil.png",
+      "Id": "Z:\\programacion 2023\\TP4Bis\\wwwroot\\brasil.png",
       "PackagePath": "staticwebassets\\brasil.png"
     },
     {
-      "Id": "Z:\\programacion 2023\\TP4Bis\\TP4Bis\\wwwroot\\chile.png",
+      "Id": "Z:\\programacion 2023\\TP4Bis\\wwwroot\\chile.png",
       "PackagePath": "staticwebassets\\chile.png"
     },
     {
-      "Id": "Z:\\programacion 2023\\TP4Bis\\TP4Bis\\wwwroot\\css\\site.css",
+      "Id": "Z:\\programacion 2023\\TP4Bis\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "Z:\\programacion 2023\\TP4Bis\\TP4Bis\\wwwroot\\favicon.ico",
+      "Id": "Z:\\programacion 2023\\TP4Bis\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "Z:\\programacion 2023\\TP4Bis\\TP4Bis\\wwwroot\\js\\site.js",
+      "Id": "Z:\\programacion 2023\\TP4Bis\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "Z:\\programacion 2023\\TP4Bis\\TP4Bis\\wwwroot\\obj\\Debug\\net6.0\\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs",
-      "PackagePath": "staticwebassets\\obj\\Debug\\net6.0\\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs"
-    },
-    {
-      "Id": "Z:\\programacion 2023\\TP4Bis\\TP4Bis\\wwwroot\\obj\\Debug\\net6.0\\TP4Bis.AssemblyInfo.cs",
-      "PackagePath": "staticwebassets\\obj\\Debug\\net6.0\\TP4Bis.AssemblyInfo.cs"
-    },
-    {
-      "Id": "Z:\\programacion 2023\\TP4Bis\\TP4Bis\\wwwroot\\obj\\Debug\\net6.0\\TP4Bis.AssemblyInfoInputs.cache",
-      "PackagePath": "staticwebassets\\obj\\Debug\\net6.0\\TP4Bis.AssemblyInfoInputs.cache"
-    },
-    {
-      "Id": "Z:\\programacion 2023\\TP4Bis\\TP4Bis\\wwwroot\\obj\\Debug\\net6.0\\TP4Bis.GeneratedMSBuildEditorConfig.editorconfig",
-      "PackagePath": "staticwebassets\\obj\\Debug\\net6.0\\TP4Bis.GeneratedMSBuildEditorConfig.editorconfig"
-    },
-    {
-      "Id": "Z:\\programacion 2023\\TP4Bis\\TP4Bis\\wwwroot\\obj\\Debug\\net6.0\\TP4Bis.GlobalUsings.g.cs",
-      "PackagePath": "staticwebassets\\obj\\Debug\\net6.0\\TP4Bis.GlobalUsings.g.cs"
-    },
-    {
-      "Id": "Z:\\programacion 2023\\TP4Bis\\TP4Bis\\wwwroot\\obj\\Debug\\net6.0\\TP4Bis.csproj.AssemblyReference.cache",
-      "PackagePath": "staticwebassets\\obj\\Debug\\net6.0\\TP4Bis.csproj.AssemblyReference.cache"
-    },
-    {
-      "Id": "Z:\\programacion 2023\\TP4Bis\\TP4Bis\\wwwroot\\obj\\Debug\\net6.0\\project.razor.json",
-      "PackagePath": "staticwebassets\\obj\\Debug\\net6.0\\project.razor.json"
-    },
-    {
-      "Id": "Z:\\programacion 2023\\TP4Bis\\TP4Bis\\wwwroot\\paraguay.png",
+      "Id": "Z:\\programacion 2023\\TP4Bis\\wwwroot\\paraguay.png",
       "PackagePath": "staticwebassets\\paraguay.png"
     },
     {
-      "Id": "Z:\\programacion 2023\\TP4Bis\\TP4Bis\\wwwroot\\uruguay.webp",
+      "Id": "Z:\\programacion 2023\\TP4Bis\\wwwroot\\uruguay.webp",
       "PackagePath": "staticwebassets\\uruguay.webp"
     },
     {
